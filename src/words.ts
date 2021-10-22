@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "fs/promises";
 
-const INPUT_WORDS_PATH = "./static/words.txt";
-const OUTPUT_FREQ_PATH = "./static/words.json";
+const INPUT_WORDS_PATH = "./input/words.txt";
+const OUTPUT_FREQ_PATH = "./output/words.json";
 const WORD_SEPARATOR = "\r\n";
 const COMBO_LENGTHS = [2, 3, 4];
 
