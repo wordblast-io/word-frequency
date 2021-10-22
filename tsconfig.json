@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"rootDir": "src",
+		"outDir": "build",
+		"module": "ESNext",
+		"target": "ESNext",
+		"downlevelIteration": true
+	}
+}
